@@ -1,0 +1,8 @@
+.venv
+.git
+.env
+multifile_main.py
+chromaDB
+paper.pdf
+app
+__pycache__/
